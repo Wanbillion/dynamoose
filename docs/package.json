@@ -13,7 +13,7 @@
     "@crowdin/cli": "^4.5.0",
     "@docusaurus/core": "3.6.3",
     "@docusaurus/preset-classic": "3.6.3",
-    "@docusaurus/remark-plugin-npm2yarn": "^3.6.3",
+    "@docusaurus/remark-plugin-npm2yarn": "^3.7.0",
     "classnames": "^2.5.1",
     "jsdoc-to-markdown": "^9.1.1",
     "mkdirp": "^3.0.1",
